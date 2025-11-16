@@ -1,5 +1,7 @@
 # asteroid_reddening_by_ZTF
-##Analysis of the reddening of the spectra of small asteroids using ZTF data. Studying the effect of space weathering with distance
+## Analysis of the reddening of the spectra of small asteroids using ZTF data. 
+
+# Studying the effect of space weathering with distance
 • This set of programs can be used to study the space weathering of asteroids using the Zwicky Center data.
 • First, the necessary data will be extracted from the ZTF .
 • Then, for convenience, use the filter_separation.sql query program to separate the data by filters, having previously checked the data spread (this parameter can be changed in the last line of this query, in addition, you can add a third filter zr, but keep in mind that there is very little data for this filter). In addition to convenience, this query immediately calculates the color index.
