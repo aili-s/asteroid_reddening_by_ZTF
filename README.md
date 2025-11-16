@@ -10,3 +10,5 @@ For own project, this method was applied to more than 150 objects to calculate t
 As a result, the dependence of space weathering on the distance from the Sun within each of the selected families was confirmed.
 
 If you use this code for your own research, please include a link to this repository in your work: https://github.com/aili-s/asteroid_reddening_by_ZTF 
+
+### Article not yet published
